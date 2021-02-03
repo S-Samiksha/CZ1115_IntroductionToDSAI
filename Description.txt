@@ -1,2 +1,3 @@
 These are the files for the module CX1115 Introduction to DSAI 
 These are for my own personal reference 
+Notes and codes are taken from lecture notes, the documentations from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
