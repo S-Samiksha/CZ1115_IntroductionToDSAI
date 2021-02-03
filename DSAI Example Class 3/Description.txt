@@ -1,0 +1,3 @@
+Cleaning data
+Changing Data Type 
+Categorical vs Continuous Data
