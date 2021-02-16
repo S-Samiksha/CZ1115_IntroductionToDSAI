@@ -1,3 +1,7 @@
-These are the files for the module CX1115 Introduction to DSAI 
+These are the files for the module CX1115 Introduction to DSAI. 
 These are for my own personal reference 
 Notes and codes are taken from lecture notes, the documentations from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+In this module, we analyse House Sale Prices and variables that could affect sale price.
+The data set was taken from:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques 
+
