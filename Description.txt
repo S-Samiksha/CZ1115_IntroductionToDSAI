@@ -5,3 +5,6 @@ In this module, we analyse House Sale Prices and variables that could affect sal
 The data set was taken from:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques 
 
+In this module I did the following:
+Data Cleaning, Exploratory Analysis, visualising data, linear regression, decision tree
+
