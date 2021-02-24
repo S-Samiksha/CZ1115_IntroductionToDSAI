@@ -9,7 +9,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 In this module I did the following:
 Data Cleaning, Exploratory Analysis, visualising data, linear regression, decision tree
 
-**DSAI Example Class Folder:** The very first lab exercise that we did. 
+**DSAI Example Class Folder:** The very first lab exercise that we did. Additionally, I did a data cleaning and manipulation of medal tallies from 2004 Olympics to 2016 Olympics. 
 
 **DSAI Example Class 2, 3 Folder:** These labs were to get familiar to the Pandas Module and the various functions we could do. 
 
